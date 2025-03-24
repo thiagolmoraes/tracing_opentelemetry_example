@@ -23,5 +23,5 @@ To run the application, you can use Docker Compose. Follow the steps below:
 
 2. **Access Jaeger**: After starting the containers, you can access the Jaeger interface in your browser at `<ip>:16686`, replacing `<ip>` with the appropriate IP address of your environment.
 
-
+![Jaeger UI](screenshot/example.png)       
 
