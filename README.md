@@ -1,4 +1,4 @@
-# Study Project
+# Project
 
 Attempt to integrate OpenTelemetry with Jaeger. The goal is to understand how to instrument applications to collect and visualize distributed traces.
 
